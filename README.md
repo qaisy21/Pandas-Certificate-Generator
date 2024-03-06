@@ -1,2 +1,2 @@
 # Python-Pandas-Certificate-Generator
-using data analysis with Pandas &amp; Numpy to clean a dataset from excel, then implementing the certificate logix using reportlab to generate certificate
+I utilize Pandas and Numpy for data analysis to clean Excel datasets. Following that, I apply certificate logic using reportlab to generate certificates."
